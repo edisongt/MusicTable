@@ -1,0 +1,9 @@
+# 編輯器暫存檔
+.*.sw[a-p]
+*~
+.vscode/
+.idea/
+
+# 作業系統產生的檔案
+.DS_Store
+Thumbs.db
