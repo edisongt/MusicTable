@@ -1,5 +1,3 @@
-<!-- 此文件由 scripts/generate_mode_docs.py 自動產生，請勿直接修改。 -->
-
 # Melodic Minor（旋律小調／爵士小調）：七個自然音主音
 
 本文件以 **Melodic Minor（旋律小調／爵士小調）** 為主軸，依序列出 C、D、E、F、G、A、B 七個自然音主音。
